@@ -1,7 +1,4 @@
-3. README.md
-markdown
-Copy
-# Flappy Bird Clone
+# Flappy Bird-Windows (Remake)
 
 ![Game Screenshot](Contents/Sprites/message.png)
 
@@ -23,19 +20,19 @@ A faithful recreation of the classic Flappy Bird game with Python and Pygame.
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
-How to Play
-Press SPACE or click to flap
+   ```
+   
+## How to Play
+   *Press SPACE or click to flap
+   *Avoid pipes
+   *Try to beat your high score!
 
-Avoid pipes
-
-Try to beat your high score!
-
-Building the Executable
-bash
-Copy
+## Building the Executable
+```bash
 pyinstaller --onefile --noconsole --add-data "Contents;Contents" --icon=Contents/icon.ico flappy_bird.py
-File Structure
-Copy
+```
+
+## File Structure
 Flappy Bird/
 ├── Contents/
 │   ├── SFX/ (all sound effects)
@@ -45,34 +42,10 @@ Flappy Bird/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-Credits
+
+## Credits
 Original game concept by Dong Nguyen
+Python implementation by [oxyoxy1]
 
-Python implementation by [Your Name]
-
-License
+### License
 MIT License - See LICENSE for details.
-
-Copy
-
-### Final Directory Structure:
-Flappy Bird/
-├── Contents/
-│ ├── SFX/
-│ ├── Sprites/
-│ └── icon.ico
-├── flappy_bird.py
-├── flappy_bird.spec
-├── requirements.txt
-├── LICENSE
-└── README.md
-
-To complete setup:
-1. Save each file in your project root
-2. Replace `[Your Name]` in both LICENSE and README
-3. Add a screenshot (update README path if needed)
-4. Consider adding a `build.bat` for easy compilation:
-   ```bat
-   @echo off
-   pyinstaller --onefile --noconsole --add-data "Contents;Contents" --icon=Contents/icon.ico flappy_bird.py
-   pause
