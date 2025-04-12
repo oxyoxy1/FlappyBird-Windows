@@ -36,8 +36,8 @@ pyinstaller --onefile --noconsole --add-data "Contents;Contents" --icon=Contents
 ![tree](Screenshots/tree.PNG)
 
 ## Credits
-Original game concept by Dong Nguyen
-Python implementation by [oxyoxy1]
+*Original game concept by Dong Nguyen* <br>
+*Python implementation by oxyoxy1*
 
 ### License
 MIT License - See LICENSE for details.
