@@ -1,4 +1,4 @@
-# Flappy Bird-Windows (Remake)
+# Flappy Bird (Windows Remake)
 
 ![Game Screenshot](Contents/Sprites/message.png)
 
