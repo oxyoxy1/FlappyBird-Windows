@@ -1,0 +1,6 @@
+# But allow the final built EXE
+!dist/FlappyBird.exe
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs_vista.db
