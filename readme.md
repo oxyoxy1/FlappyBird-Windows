@@ -5,11 +5,11 @@
 A faithful recreation of the classic Flappy Bird game with Python and Pygame.
 
 ## Features
-- Original gameplay mechanics
+- **Original** gameplay mechanics
 - Day/night backgrounds (changes automatically)
 - Three bird color variants
 - Score tracking with local high scores
-- Responsive controls (spacebar or mouse click)
+- Responsive controls (spacebar **or** mouse click)
 
 ## Installation
 
@@ -36,8 +36,8 @@ pyinstaller --onefile --noconsole --add-data "Contents;Contents" --icon=Contents
 ![tree](Screenshots/tree.PNG)
 
 ## Credits
-*Original game concept by Dong Nguyen* <br>
-*Python implementation by oxyoxy1*
+*Original game concept by **Dong Nguyen*** <br>
+*Python implementation by **oxyoxy1***
 
 ### License
-MIT License - See LICENSE for details.
+MIT License - See **LICENSE** for details.
