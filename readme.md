@@ -1,6 +1,6 @@
 # Flappy Bird (Windows Remake)
 
-![Game Screenshot](Contents/Sprites/message.png)
+![Game Screenshot](Screenshots/menu.PNG)
 
 A faithful recreation of the classic Flappy Bird game with Python and Pygame.
 
