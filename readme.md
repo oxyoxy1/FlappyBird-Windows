@@ -31,6 +31,8 @@ A faithful recreation of the classic Flappy Bird game with Python and Pygame.
 ```bash
 pyinstaller --onefile --noconsole --add-data "Contents;Contents" --icon=Contents/icon.ico flappy_bird.py
 ```
+![executable](Screenshots/flappydotexe.PNG)
+
 
 ## File Structure
 ![tree](Screenshots/tree.PNG)
