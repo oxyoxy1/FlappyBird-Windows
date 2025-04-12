@@ -4,6 +4,8 @@
 
 A faithful recreation of the classic Flappy Bird game with Python and Pygame.
 
+![Game Screenshot](Screenshots/gameover.PNG)
+
 ## Features
 - **Original** gameplay mechanics
 - Day/night backgrounds (changes automatically)
