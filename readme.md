@@ -34,8 +34,11 @@ pyinstaller --onefile --noconsole --add-data "Contents;Contents" --icon=Contents
 ![executable](Screenshots/flappydotexe.PNG)
 
 
-## File Structure
+## File Structure (Python Code)
 ![tree](Screenshots/tree.PNG)
+
+## File Structure (Exe Build)
+![tree](Screenshots/tree2.PNG)
 
 ## Credits
 *Original game concept by **Dong Nguyen*** <br>
